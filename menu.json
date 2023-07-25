@@ -1,0 +1,110 @@
+{
+  "main": {
+    "program_overview": {
+      "title": "Programma's",
+      "url": "/programmas",
+      "activeTrail": false,
+      "active": false,
+      "showMobile": true,
+      "children": []
+    },
+    "podcast": {
+      "title": "Podcasts",
+      "url": "/podcast",
+      "activeTrail": false,
+      "active": false,
+      "showMobile": true,
+      "children": []
+    },
+    "tv_guide": {
+      "title": "TV-Gids",
+      "url": "/tv-gids",
+      "activeTrail": false,
+      "active": false,
+      "showMobile": false,
+      "children": []
+    }
+  },
+  "legal": [
+    {
+      "title": "Cookiebeleid",
+      "url": "https://sbsbelgium.slgnt.eu/optiext/optiextension.dll?ID=lq4EmFCQHInNfT5MJ1mNIPkW0aEXgKYhmQ%2BJ6%2BFmXJ56d1yj8xI7yCW7Z8LkRxyMnynJcLFRh5TB9BGxlS",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Privacy",
+      "url": "http://privacy.sbsbelgium.be",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Wedstrijdreglement",
+      "url": "/wedstrijdreglement",
+      "isExternal": false,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Algemene Voorwaarden",
+      "url": "/algemene-voorwaarden",
+      "isExternal": false,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Adverteren",
+      "url": "https://www.adsanddata.be/",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Jobs",
+      "url": "https://jobpage.cvwarehouse.com/?companyGuid=d814a909-9e2f-4149-a4d5-bcfae5ccbe40&lang=nl-BE",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Inschrijven",
+      "url": "https://www.goplay.be/inschrijven",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Play Zuid",
+      "url": "https://www.playzuid.be/",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "App",
+      "url": "/app",
+      "isExternal": false,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    },
+    {
+      "title": "Contact",
+      "url": "https://support.goplay.be/",
+      "isExternal": true,
+      "activeTrail": false,
+      "active": false,
+      "children": []
+    }
+  ]
+}
