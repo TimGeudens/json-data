@@ -1,6 +1,6 @@
 {
-  "main": {
-    "program_overview": {
+  "main": [
+    {
       "title": "Programma's",
       "url": "/programmas",
       "activeTrail": false,
@@ -8,7 +8,7 @@
       "showMobile": true,
       "children": []
     },
-    "podcast": {
+    {
       "title": "Podcasts",
       "url": "/podcast",
       "activeTrail": false,
@@ -16,7 +16,7 @@
       "showMobile": true,
       "children": []
     },
-    "tv_guide": {
+    {
       "title": "TV-Gids",
       "url": "/tv-gids",
       "activeTrail": false,
@@ -24,7 +24,7 @@
       "showMobile": false,
       "children": []
     }
-  },
+  ],
   "legal": [
     {
       "title": "Cookiebeleid",
