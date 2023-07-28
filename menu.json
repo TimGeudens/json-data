@@ -23,14 +23,6 @@
       "active": false,
       "showMobile": false,
       "children": []
-    },
-        {
-      "title": "Nieuw menu item",
-      "url": "/nieuw",
-      "activeTrail": false,
-      "active": false,
-      "showMobile": false,
-      "children": []
     }
   ],
   "legal": [
